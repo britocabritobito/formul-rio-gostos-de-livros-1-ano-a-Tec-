@@ -1,0 +1,27 @@
+ *{ 
+    margin: 0;
+    padding: 0;
+ }
+
+ body{
+    background-color: #8b4513;
+  }
+
+  main{ 
+    background-color: #cd853f;
+    width: 600px;
+    height: 600px;
+    margin: 140px auto; 
+  }
+
+  h1{
+    text-align: center;
+   }
+   
+.Fontes{ 
+    font-size: 40px;
+}
+ button { 
+
+    margin-left: 45.5%;
+ } 
